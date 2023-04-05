@@ -4,8 +4,8 @@
     font-family: sans-serif;
 }
 img{
-    width: 100px;
-    height: 100px;
+    width: 300;
+    height: 300;
 }
 .upfont{
         position: relative;
@@ -28,7 +28,7 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
-    color: teal;
+    color: WHITE;
     font-weight: bold;
 }
  .detalye{
@@ -37,7 +37,7 @@ nav ul li a{
  }
  .detalye h1{
     font-size: 50px;
-    color: teal;
+    color: white;
  }
  span{
     color:white;
@@ -54,4 +54,33 @@ nav ul li a{
      margin: inline-block;
      margin: 30px 0;
      border-radius: 5px;
+}
+.about {
+    background-color: black;
+}
+.about h2{
+    font-size: 20;color: aliceblue;text-align: center;
+}
+.about ul{
+    text-align: center;font-size: 50;font-style:oblique;
+}
+.about ul li a{
+    color: white;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about h1 a{
+    text-align: left;font: 30;color:teal;
+}
+.this{
+    text-align: center;font-size: 60;font-style:normal;
+}
+.basket{
+    width: 50%;
+    height: 100%;
+    
+}
+.home{
+    text-align:left;font-size: 40;
+}
+.contacts   {
+    font-size: 50;
 }
